@@ -75,6 +75,15 @@
     {
       id: 8,
       name: 'WinRAR',
+      age: 32,
+      job: 'Nearly bankrupt',
+      images: ['images/solarwinds.jpg'],
+      distance: 2,
+      description: 'Please buy me 🥺',
+      },
+    {
+      id: 9,
+      name: 'Test',
       age: 22,
       job: 'Nearly bankrupt',
       images: ['images/solarwinds.jpg'],
