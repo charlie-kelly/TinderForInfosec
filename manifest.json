@@ -1,7 +1,7 @@
 {
   "background_color": "#ffffff",
-  "name": "Tinder for Bananas",
-  "short_name": "Tinder for Bananas",
+  "name": "Tinder for Infosec",
+  "short_name": "Tinder for Infosec",
   "display": "standalone",
   "icons": [
     {

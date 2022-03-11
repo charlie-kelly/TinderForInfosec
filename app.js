@@ -5,9 +5,9 @@
       name: 'Log4Shell',
       age: 1,
       job: 'Goes by CVE-2021-44228',
-      images: ['images/testpic5.jpg', 'images/testpic2.jpg', 'images/testpic1.jpg'],
+      images: ['images/log4j.jpg'],
       distance: 25,
-      description: 'Swipe for me! You’ll find me very ap-peel-ing'
+      description: 'J👏N👏D👏I'
     },
     {
       id: 1,
@@ -16,7 +16,7 @@
       job: 'Saint Petersburg, Russia',
       images: ['images/conti.png'],
       distance: 200,
-      description: 'Do you like encryption? We got ya'
+      description: 'Nice files, shame if they all disappeared'
     },
     {
       id: 2,
@@ -66,6 +66,15 @@
     {
       id: 7,
       name: 'Solarwinds',
+      age: 22,
+      job: 'Nearly bankrupt',
+      images: ['images/solarwinds.jpg'],
+      distance: 2,
+      description: 'Please buy me 🥺',
+    },
+    {
+      id: 8,
+      name: 'WinRAR',
       age: 22,
       job: 'Nearly bankrupt',
       images: ['images/solarwinds.jpg'],
